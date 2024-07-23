@@ -2,7 +2,7 @@ const { Client, Intents, MessageActionRow, MessageButton, MessageEmbed } = requi
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
 // Replace with your bot's token
-const TOKEN = 'YOUR_BOT_TOKEN_HERE';
+const TOKEN = 'MTI2NTQxNTk5MDY2NjMzMDE0Mg.GTABsN.EzM1eOGEfH8HnUtstKbhNP96EKzrI9yQY9W3x0';
 
 // Links for options
 const links = {
